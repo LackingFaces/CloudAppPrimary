@@ -1,4 +1,4 @@
 build:
-  Bundle_All: "bundler"
+  Bundle_All: "bundler > /dev/null"
   Rake_Tests: "rake test"
   Rake_Migrate: "rake db:migrate"
