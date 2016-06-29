@@ -1,3 +1,4 @@
 build:
+  Bundle_All: "bundler"
   Rake_Tests: "rake test"
   Rake_Migrate: "rake db:migrate"
