@@ -1,5 +1,3 @@
 build:
   Bundle_All: "bundler > /dev/null"
-  Setup_Database: "rake db:setup"
-  Rake_Migrate: "rake db:migrate"
   Rake_Tests: "rake test"
